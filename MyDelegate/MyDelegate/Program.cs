@@ -26,7 +26,7 @@ class Program
         delegateExample.RunEvent();
 
 
-        Console.Read();
+        Console.Read();    
     }
 
 
