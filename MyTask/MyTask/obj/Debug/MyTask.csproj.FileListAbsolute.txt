@@ -1,0 +1,12 @@
+D:\项目\MyTask\MyTask\bin\Debug\MyTask.exe.config
+D:\项目\MyTask\MyTask\bin\Debug\MyTask.exe
+D:\项目\MyTask\MyTask\bin\Debug\MyTask.pdb
+D:\项目\MyTask\MyTask\obj\Debug\MyTask.csprojResolveAssemblyReference.cache
+D:\项目\MyTask\MyTask\obj\Debug\MyTask.exe
+D:\项目\MyTask\MyTask\obj\Debug\MyTask.pdb
+E:\project\MyTask\MyTask\bin\Debug\MyTask.exe.config
+E:\project\MyTask\MyTask\obj\Debug\MyTask.exe
+E:\project\MyTask\MyTask\obj\Debug\MyTask.pdb
+E:\project\MyTask\MyTask\bin\Debug\MyTask.exe
+E:\project\MyTask\MyTask\bin\Debug\MyTask.pdb
+E:\project\MyTask\MyTask\obj\Debug\MyTask.csprojResolveAssemblyReference.cache
